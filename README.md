@@ -24,7 +24,7 @@ Image classification project using CIFAR-10 dataset and MobileNetV2, developed a
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Mayur2212/P1-Image_Classification_by_Machine_Learning/
+   git clone https://github.com/Mayur2212/P1-Image_Classification_by_Machine_Learning
    cd <repository_directory>
 
 ## Set up the virtual environment (optional but recommended):
